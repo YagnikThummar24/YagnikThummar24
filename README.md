@@ -1,7 +1,7 @@
 <!-- Banner Image -->
-<img src="https://your-banner-image-url.com/banner.png" alt="Banner" style="width:100%;"/>
+//<img src="https://your-banner-image-url.com/banner.png" alt="Banner" style="width:100%;"/>
 
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hi 👋, I'm Yagnik Thummar</h1>
 
 <p align="center">
   <b>Expert Unity Game Developer | AR VR | UI/UX</b>
