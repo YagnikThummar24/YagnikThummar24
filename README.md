@@ -56,8 +56,6 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
 
 ---
 
-## 🐍 GitHub Snake Contribution Graph
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/output/github-snake.svg" />
