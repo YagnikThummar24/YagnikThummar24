@@ -61,6 +61,6 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
   <img alt="github-snake" src="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/output/github-snake.svg" />
 </picture>
 
-<br>
+<br><br>
 
 _Thanks for visiting! Feel free to check out my projects, star ⭐ what you like, or connect with me._
