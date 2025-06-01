@@ -11,10 +11,10 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
 ## 🧰 Tools & Technologies
 
 - 🕹️ **Game Development**: Unity (C#)
-- 🌍 **AR Development**: AR Foundation, Vuforia, ARCore, ARKit, Mediapipe
-- 🎨 **Graphics & Assets**: Blender, Photoshop, Illustrator
-- ☁️ **Services**: Firebase, OneSignal, PlayFab, Unity Cloud
-- 💰 **Monetization**: Unity Ads, AdMob, AppLovin, Facebook, Ironsource, In-App Purchases
+- 🌍 **AR Development**: AR Foundation, ARCore, ARKit, Mediapipe
+- 🎨 **Graphics & Assets**: Blender, Photoshop, Figma
+- ☁️ **Services**: Firebase, OneSignal, PlayFab, Unity Cloud, AWS
+- 💰 **Monetization**: Unity Ads, AdMob, AppLovin, Facebook Audience Network, IronSource, In-App Purchases
 - 📱 **Platforms**: Android, iOS
 
 ---
