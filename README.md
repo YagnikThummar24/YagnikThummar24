@@ -1,3 +1,5 @@
+![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
+
 <h1 align="center">Hi 👋, I'm Yagnik Thummar</h1>
 
 <p align="center">
@@ -53,5 +55,9 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
 - 🅾 **Instagram**: [@yagnik_thummar_24](https://www.instagram.com/yagnik_thummar_24/)
 
 ---
+
+
+
+
 
 _Thanks for visiting! Feel free to check out my projects, star ⭐ what you like, or connect with me._
