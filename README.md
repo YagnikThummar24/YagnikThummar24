@@ -48,7 +48,7 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
 
 
 - 📧 **Email**: [yagnikthummar24@gmail.com](mailto:yagnikthummar24@gmail.com)  
-- 📞 **WhatsApp**: [Chat with me](https://wa.me/918866092652)
+- 📞 **WhatsApp**: +91 918866092652
 - 💼 **LinkedIn**: [linkedin.com/in/yagnik-thummar-a6546427a](https://linkedin.com/in/yagnik-thummar-a6546427a)  
 - 🅾 **Instagram**: [@yagnik_thummar_24](https://www.instagram.com/yagnik_thummar_24/)
 
