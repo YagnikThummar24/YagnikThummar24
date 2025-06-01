@@ -63,11 +63,4 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
 </picture>
 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/output/ocean.gif" alt="snake gif" />
-</p>
-
-
-
-
 _Thanks for visiting! Feel free to check out my projects, star ⭐ what you like, or connect with me._
