@@ -56,8 +56,8 @@ Welcome to my GitHub! I'm a passionate Unity developer with experience in buildi
 ---
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/yagnikthummaroutput/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/yagnikthummaroutput/github-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/YagnikThummar24-output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/YagnikThummar24-output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/YagnikThummar24/YagnikThummar24/output/github-snake.svg" />
 </picture>
 
